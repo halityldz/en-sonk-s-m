@@ -1,0 +1,10 @@
+C:\Users\HALİT\Source\Repos\yücebyte\yücebyte\obj\Debug\yücebyte.csprojAssemblyReference.cache
+C:\Users\HALİT\Source\Repos\yücebyte\yücebyte\obj\Debug\yücebyte.Form1.resources
+C:\Users\HALİT\Source\Repos\yücebyte\yücebyte\obj\Debug\yücebyte.Properties.Resources.resources
+C:\Users\HALİT\Source\Repos\yücebyte\yücebyte\obj\Debug\yücebyte.csproj.GenerateResource.cache
+C:\Users\HALİT\Source\Repos\yücebyte\yücebyte\obj\Debug\yücebyte.csproj.CoreCompileInputs.cache
+C:\Users\HALİT\Source\Repos\yücebyte\yücebyte\bin\Debug\yücebyte.exe.config
+C:\Users\HALİT\Source\Repos\yücebyte\yücebyte\bin\Debug\yücebyte.exe
+C:\Users\HALİT\Source\Repos\yücebyte\yücebyte\bin\Debug\yücebyte.pdb
+C:\Users\HALİT\Source\Repos\yücebyte\yücebyte\obj\Debug\yücebyte.exe
+C:\Users\HALİT\Source\Repos\yücebyte\yücebyte\obj\Debug\yücebyte.pdb
